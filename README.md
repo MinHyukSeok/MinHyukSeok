@@ -3,12 +3,6 @@
 안녕하세요! 저는 석민혁입니다. 파이썬 개발자로서 다양한 경험을 쌓아왔고, 열정적으로 코드를 작성하는 것을 좋아합니다.
 
 ## 기술 스택
-
-- Python
-- Django
-- HTML/CSS
-- JavaScript
-- vue
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
