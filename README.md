@@ -11,6 +11,7 @@
 ![JSONAPI](https://img.shields.io/badge/-JSONAPI-FF6600?style=flat)
 ![DB](https://img.shields.io/badge/-DB-003B57?style=flat)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 
 ## 프로젝트
