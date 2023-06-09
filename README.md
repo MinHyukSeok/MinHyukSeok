@@ -18,5 +18,5 @@
 
 ## 프로젝트
 
-- [Movie Recommend Community](https://github.com/MinHyukSeok/Project/tree/main/Movie%20Recommend%20Community): 프로젝트에 대한 간단한 설명 또는 프로젝트 로고/스크린샷 등을 첨부할 수 있습니다.
+- [Movie Recommend Community](https://github.com/MinHyukSeok/Project/tree/main/Movie%20Recommend%20Community): django와 vue를 사용하여 사용자에게 영화를 추천하고 유저끼리 소통하는 커뮤니티를 이용할 수 있는 웹 서비스를 개발했습니다.
 - [성적관리 프로그램](프로젝트 링크): 다른 프로젝트에 대한 설명입니다.
