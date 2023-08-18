@@ -4,6 +4,11 @@
 - 현재는 삼성 청년 소프트웨어 아카데미 9기에 입과하여 교육을 이수 중입니다. <br>
 - 이곳은 제가 공부한 내용, 풀어온 알고리즘 문제, 그리고 진행한 프로젝트를 정리해서 올려둔 저장소입니다.<br>
 
+![SeokMinHyuk's Profile Picture](https://your-image-link.com)
+
+👋 안녕하세요! 저는 **석민혁**이고, 문제 해결을 사랑하는 개발자입니다. 다양한 기술을 활용해 세상을 더 나은 곳으로 만드는 것을 목표로 하고 있습니다.
+
+
 
 ## 기술 스택
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
