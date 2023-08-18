@@ -1,12 +1,9 @@
 # 석민혁
+![SeokMinHyuk's Profile Picture](https://your-image-link.com)
 
 - 안녕하세요! 저는 석민혁입니다. 어렸을 때부터 수학 문제를 푸는 것을 좋아했고, 수학 문제 푸는 것과 코딩이 비슷하다고 느껴 개발자로의 길을 선택했습니다. <br>
 - 현재는 삼성 청년 소프트웨어 아카데미 9기에 입과하여 교육을 이수 중입니다. <br>
 - 이곳은 제가 공부한 내용, 풀어온 알고리즘 문제, 그리고 진행한 프로젝트를 정리해서 올려둔 저장소입니다.<br>
-
-![SeokMinHyuk's Profile Picture](https://your-image-link.com)
-
-👋 안녕하세요! 저는 **석민혁**이고, 문제 해결을 사랑하는 개발자입니다. 다양한 기술을 활용해 세상을 더 나은 곳으로 만드는 것을 목표로 하고 있습니다.
 
 
 
@@ -27,3 +24,10 @@
 
 - [Movie Recommend Community](https://github.com/MinHyukSeok/Project/tree/main/Movie%20Recommend%20Community): django와 vue를 사용하여 사용자에게 영화를 추천하고 유저끼리 소통하는 커뮤니티를 이용할 수 있는 웹 서비스를 개발했습니다.
 - [성적관리 프로그램](https://github.com/MinHyukSeok/Project/tree/main/%EC%84%B1%EC%A0%81%EA%B4%80%EB%A6%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8): C#(Windows Forms)을 사용하여 성적을 입력, 삭제, 수정, 저장할 수 있는 어플리케이션을 개발했습니다.
+
+📊 GitHub 통계:
+
+![SeokMinHyuk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MinHyukSeok&show_icons=true&theme=tokyonight)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MinHyukSeok&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
